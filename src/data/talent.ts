@@ -81,8 +81,8 @@ export const TALENT_ROSTER: TalentMember[] = [
     handle: '@taihou',
     monogram: 'TH',
     roles: ['LVL 4', 'Co-Owner', 'IRL' ,'Streamer'],
-    tagline: 'Who drops the magic word. The chaotic energy of the group, and also a gentlemen. ',
-    bio: 'Bridges on-camera chaos and post-production polish—storyboarding group vlogs, podcasts, and Manila street challenges.',
+    tagline: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    bio: 'Lorem impusm dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
     featured: true,
     socials: {
       youtube: 'https://youtube.com',
@@ -96,8 +96,8 @@ export const TALENT_ROSTER: TalentMember[] = [
     handle: '@naechi',
     monogram: 'MK',
     roles: ['LVL 4', 'Co-Owner', 'IRL'],
-    tagline: 'Just shows once in a bluemoon.',
-    bio: 'Brings the energy to party games, karaoke streams, and community Discord events where every viewer feels part of the house.',
+    tagline: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    bio: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
     featured: true,
     socials: {
       twitch: 'https://twitch.tv',
@@ -111,8 +111,8 @@ export const TALENT_ROSTER: TalentMember[] = [
     handle: '@kanam',
     monogram: 'KN',
     roles: ['LVL 4', 'Variety', 'Producer'],
-    tagline: 'Core member of oneVRNT.',
-    bio: 'Part of the core oneVRNT crew—always down for group games, late-night calls, and community streams.',
+    tagline: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    bio: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
     featured: true,
     socials: {
       youtube: 'https://youtube.com',
@@ -126,8 +126,8 @@ export const TALENT_ROSTER: TalentMember[] = [
     handle: '@arc',
     monogram: 'AR',
     roles: ['LVL 4', 'FPS', 'Variety'],
-    tagline: 'The quiet one, but deadly in games.',
-    bio: 'A silent but deadly presence in competitive matches, Kuro excels in strategy and precision, often leading the team to victory with his calm demeanor.',
+    tagline: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    bio: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
     featured: false,
     socials: {
       twitch: 'https://twitch.tv',
